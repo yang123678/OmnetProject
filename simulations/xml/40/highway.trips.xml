@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- generated on 2022-06-28 08:25:22.055502 by $Id$ v1.8.0-0000000000
+  options: -n highway.net.xml <doubleminus>intermediate 7 -b 0 -e 4 -p 0.1 -o highway.trips.xml
+-->
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <trip id="0" depart="0.00" from="r12" to="e8" via="e1 e4 e3 r3 r2 r7 e11" />
+    <trip id="1" depart="0.10" from="e1" to="r11" via="e3 r1 e1 e2 r12 r10 e3" />
+    <trip id="2" depart="0.20" from="r5" to="e11" via="e1 r5 r2 e6 e12 r8 e6" />
+    <trip id="3" depart="0.30" from="e11" to="r10" via="r6 r11 r5 r3 r1 r9 e7" />
+    <trip id="4" depart="0.40" from="r5" to="e10" via="r11 r6 r10 r2 e10 e3 e4" />
+    <trip id="5" depart="0.50" from="e3" to="r8" via="e11 e4 r12 e6 e6 e3 e4" />
+    <trip id="6" depart="0.60" from="r12" to="r10" via="r11 e2 r3 e12 e7 r9 r12" />
+    <trip id="7" depart="0.70" from="r2" to="r8" via="r6 r4 e3 e1 e5 e4 e3" />
+    <trip id="8" depart="0.80" from="r7" to="r10" via="e5 r12 e7 r7 e9 e4 e3" />
+    <trip id="9" depart="0.90" from="e4" to="e10" via="r11 r7 e7 e3 r9 r1 e11" />
+    <trip id="10" depart="1.00" from="e11" to="r9" via="r12 r5 e8 e10 e7 r9 r1" />
+    <trip id="11" depart="1.10" from="r6" to="e8" via="e1 r3 r2 r1 e4 r12 e11" />
+    <trip id="12" depart="1.20" from="e8" to="e5" via="r8 r7 e4 r1 e2 r7 r6" />
+    <trip id="13" depart="1.30" from="r12" to="e5" via="r11 e12 r4 r1 r4 r1 e1" />
+    <trip id="14" depart="1.40" from="e1" to="e11" via="r8 r7 r5 e5 e10 r7 r8" />
+    <trip id="15" depart="1.50" from="e9" to="r6" via="e10 r4 r4 e12 e9 r10 e4" />
+    <trip id="16" depart="1.60" from="e8" to="e8" via="e3 r1 r3 e2 e5 r9 r12" />
+    <trip id="17" depart="1.70" from="r1" to="r12" via="e11 e3 e6 r11 e3 e3 e10" />
+    <trip id="18" depart="1.80" from="e3" to="r8" via="r7 r6 e10 e3 r2 e3 e12" />
+    <trip id="19" depart="1.90" from="r10" to="e9" via="e9 r4 r5 e2 e11 e8 e8" />
+    <trip id="20" depart="2.00" from="r3" to="e2" via="r2 r9 e11 e7 e6 r6 e3" />
+    <trip id="21" depart="2.10" from="e8" to="e10" via="e8 e4 e3 r8 e8 r6 r10" />
+    <trip id="22" depart="2.20" from="r9" to="e7" via="r6 r9 r8 r6 e12 e9 e3" />
+    <trip id="23" depart="2.30" from="e10" to="r9" via="e7 r9 e4 r4 e8 e8 r8" />
+    <trip id="24" depart="2.40" from="r10" to="e10" via="r3 e12 e5 r9 r10 r10 r3" />
+    <trip id="25" depart="2.50" from="r11" to="r2" via="r1 r6 e12 r9 e10 e2 r11" />
+    <trip id="26" depart="2.60" from="e3" to="r1" via="e11 r7 e3 r11 r11 e8 r11" />
+    <trip id="27" depart="2.70" from="r8" to="r4" via="e2 r3 e3 e7 r2 e5 e5" />
+    <trip id="28" depart="2.80" from="e10" to="r7" via="e8 r9 r9 e10 e3 e4 r8" />
+    <trip id="29" depart="2.90" from="r7" to="e1" via="e6 e12 r6 r2 r11 r9 r12" />
+    <trip id="30" depart="3.00" from="r5" to="e4" via="e5 r12 r8 e12 e11 e11 r10" />
+    <trip id="31" depart="3.10" from="r11" to="e11" via="r3 e2 r12 e4 e9 r7 r6" />
+    <trip id="32" depart="3.20" from="e8" to="e8" via="e4 e1 r4 r12 e4 r3 r10" />
+    <trip id="33" depart="3.30" from="e1" to="e12" via="e10 r7 r7 r10 r6 r10 e12" />
+    <trip id="34" depart="3.40" from="e5" to="r4" via="r7 r5 r6 r7 e3 e3 e11" />
+    <trip id="35" depart="3.50" from="r7" to="r7" via="e7 r11 e12 r8 r6 r9 r5" />
+    <trip id="36" depart="3.60" from="e1" to="r4" via="r3 e5 r8 r5 r6 r5 e4" />
+    <trip id="37" depart="3.70" from="e11" to="e3" via="r6 r6 e3 r5 e9 e5 r5" />
+    <trip id="38" depart="3.80" from="e1" to="r9" via="e2 e5 r6 r9 e4 r12 e7" />
+    <trip id="39" depart="3.90" from="r1" to="e8" via="r8 e11 r9 e2 r9 e4 e11" />
+</routes>
